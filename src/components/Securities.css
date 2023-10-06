@@ -1,0 +1,9 @@
+.securities{
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #33302e;
+  color: white;
+  cursor: pointer;
+  padding: 9px;
+  gap: 20px;
+}

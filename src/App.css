@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Test Metric';
+  src: local('Test Metric'), url(./fonts/test-metric-regular.woff2) format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Test Metric', sans-serif;
+}
+
+.App{
+  padding: 1rem;
+  background-color: #fff1e5;
+  height: 100vh;
+  overflow: hidden;
+}
+
+
